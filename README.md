@@ -23,4 +23,4 @@ which drive our career advancement and in some cases, restructure the role of
 the publicly funded research institution in society.
 
 ## Presented
-25 May 2017: UC-Davis Mechanical and Aerospace Engineering Seminar
+25 May 2017: UC-Davis Mechanical and Aerospace Engineering Seminar, [release](https://github.com/devinberg/presentation-open-engineering/releases/tag/v1.0), Cite as DOI:[10.6084/m9.figshare.5036606.v1](https://doi.org/10.6084/m9.figshare.5036606.v1)
